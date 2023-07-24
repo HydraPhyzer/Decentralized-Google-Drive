@@ -1,0 +1,4 @@
+.Scroll::-webkit-scrollbar-thumb{
+    width: 0px;
+    overflow-y: scroll;
+}

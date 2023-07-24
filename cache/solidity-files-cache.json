@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Zubair Gujjar\\Desktop\\Blockchain Coding\\Decenteralized-Google-Drive\\Contracts\\Drive.sol": {
+      "lastModificationDate": 1690045717763,
+      "contentHash": "b0c90d3576cabc3fbee68261ea484c1b",
+      "sourceName": "Contracts/Drive.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.0 <=0.9.0"
+      ],
+      "artifacts": [
+        "Drive"
+      ]
+    }
+  }
+}
